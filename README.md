@@ -1,0 +1,1 @@
+# dio-qa-testes-manuais-amazon
